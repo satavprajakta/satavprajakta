@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello I'm Prajakta 👋
+
+🎓 Final year B.Tech Computer Engineering, JSPM's RSCOE, Pune  
+🚀 Working on Backend & Full-Stack Projects 
+
+## 🔧 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+## 🏆 LeetCode Progress
+![LeetCode Stats](https://leetcard.jacoblin.cool/prajakta_satav123?theme=dark&ext=heatmap)
 
 <!--
 **satavprajakta/satavprajakta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
