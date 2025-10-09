@@ -47,7 +47,7 @@
 ---
 
 ## 💻 LeetCode Progress
-[![LeetCode Stats](https://leetcard.jacoblin.cool/prajakta_satav123?theme=dark&ext=heatmap)](https://leetcode.com/prajakta_satav/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/prajakta_satav123?theme=dark&ext=heatmap)](https://leetcode.com/prajakta_satav123/)
 
 ---
 
