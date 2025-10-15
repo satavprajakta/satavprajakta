@@ -56,7 +56,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satavprajakta&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satavprajakta&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=satavprajakta&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </div>
 
 ---
