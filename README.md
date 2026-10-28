@@ -1,7 +1,6 @@
 <!--## Hello I'm Prajakta 👋
 
-🎓 Final year B.Tech Computer Engineering, JSPM's RSCOE, Pune  
-🚀 Working on Backend & Full-Stack Projects 
+Software Developer | SDE Intern @ Ambiguity Labs | Java • Spring Boot • React.js • Node.js • REST APIs | B.E. Computer Science ‘26, JSPM’s RSCOE Pune | Immediate Joiner
 
 ## 🔧 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
